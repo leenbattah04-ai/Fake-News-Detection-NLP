@@ -39,12 +39,3 @@ The model predicts:
 - 0 → Real News
 - 1 → Fake News
 
----
-
-## 🚀 How to Run the Project
-
-1. Download dataset from Kaggle
-2. Place `train.csv` in the project folder
-3. Run the script:
-```bash
-python text_preprocessing.py
