@@ -6,9 +6,8 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 ---
 
 ## 📊 Dataset
-The dataset used in this project is available on Kaggle:
-
-👉 https://www.kaggle.com/c/fake-news/data
+The dataset is publicly available on Kaggle and can be downloaded using the following search:
+Fake News Detection Dataset (Kaggle)
 
 ⚠️ Note:
 The dataset is not included in this repository due to size limitations.
